@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>robo4.jpg</filename>
+	<path>C:\Users\PREETHI R\Documents\Annotation-5-11\dataset\robo4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>37</ymin>
+			<xmax>751</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>
