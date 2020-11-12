@@ -1,0 +1,12 @@
+.container-fluid{
+ box-shadow : 0 5px 5px 5px gray;
+}
+a{
+ color: darkred;
+ text-decoration : none;
+ padding : 12px;
+ text-align : left;
+ }
+a:hover, a:visited{
+	 text-decoration: none;
+ }
